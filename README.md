@@ -77,6 +77,8 @@ pnpm install
 pnpm run check
 ```
 
+Commit the generated `lib/` files with source changes so Git installs include the declared package entry before build scripts run.
+
 Reload the unpacked browser extension after editing its files.
 
 ## Scope 🎯
